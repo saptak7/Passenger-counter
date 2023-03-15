@@ -1,0 +1,2 @@
+Counter App
+This is a simple JavaScript application that allows you to count the number of times a user clicks on a button. It's useful for keeping track of various types of data, such as website traffic or inventory counts.
